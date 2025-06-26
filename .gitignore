@@ -24,7 +24,7 @@ Thumbs.db
 .idea/
 
 # Optional: Docker artifacts
-Dockerfile
+#Dockerfile
 docker-compose.yml
 *.local
 
